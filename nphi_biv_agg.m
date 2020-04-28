@@ -1,3 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Article: "How Snow Aggregate Shapes and 
+% Orientations Affects Fall Speed and Self-
+%Collection Rates"
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % %%%%%%%%%%%%%%%%%%
 % nphi_biv_agg.m
 %
